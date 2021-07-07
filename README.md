@@ -226,3 +226,19 @@ Possible values for events:
    }
 }
 ```
+
+### Additional features
+
+The input file need to be specified in the scripts.
+
+To obtain ``data.json``
+
+```
+python process.py
+```
+
+To obtain ``file_size.json``
+
+```
+python file_size.py
+```
